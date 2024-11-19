@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>kolobok</title>
+	<link rel="stylesheet" type="text/css" href="../css/kolobok.css">
+	<style>
+		svg {
+	display: block;
+	margin: 0 auto;
+	width: 590px;
+	height: 300px;
+}
+	</style>
+</head>
+<body>
+	<svg width="590" height="300">
+		<ellipse cx="500"  cy="230" rx="60" ry="20" fill="lightgray" />
+		<circle cx="500" cy="150"  r="80"  fill="yellow" />
+		<ellipse cx="480"  cy="200" rx="7" ry="15" fill="red" />
+		<circle cx="470" cy="140"  r="30"  fill="white" />
+		<circle cx="510" cy="140"  r="30"  fill="white" />
+		<circle cx="460" cy="140"  r="5"  fill="black" />
+		<circle cx="500" cy="140"  r="5"  fill="black" />
+
+		<ellipse cx="240"  cy="230" rx="60" ry="20" fill="lightgray" />
+		<circle cx="240" cy="150"  r="80"  fill="orange" />
+		<ellipse cx="240"  cy="200" rx="15" ry="8" fill="red" />
+		<circle cx="235" cy="140"  r="30"  fill="white" />
+		<circle cx="275" cy="140"  r="30"  fill="white" />
+		<circle cx="240" cy="140"  r="5"  fill="black" />
+		<circle cx="280" cy="140"  r="5"  fill="black" />
+		<circle cx="255" cy="170"  r="10"  fill="black" />
+		<polygon points="180,100 220,80 195,50" fill="orange" />
+		<polygon points="260,90 300,100 285,50" fill="orange" />
+		<polygon points="190,90 212,77 196,55" fill="black" />
+		<polygon points="270,80 293,94 285,55" fill="black" />
+		<ellipse cx="165"  cy="120" rx="60" ry="24" transform="rotate(17)" fill="orange" />
+		<polygon points="65,145 91,135 85,170" fill="white" />
+	</svg>
+
+</body>
+</html>
